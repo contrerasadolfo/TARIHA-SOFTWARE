@@ -10,7 +10,7 @@ public class conexionBDTARIHA {
     
     String db="tariha";
     String user="root";
-    String pass="987654321";
+    String pass="clave";
     String url="jdbc:mysql://localhost:3307/"+db;
     Connection Conn;
   
