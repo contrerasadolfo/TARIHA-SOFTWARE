@@ -1,0 +1,7 @@
+CREATE DATABASE IF NOT EXISTS tariha; 
+USE `tariha`;
+CREATE TABLE listas(
+  id int(10) NOT NULL,
+  nombre` varchar(20) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
